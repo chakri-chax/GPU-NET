@@ -7,7 +7,7 @@
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/chakri-chax/GPU-NET
+git clone https://github.com/chakri-chax/GPU-NET.git
 cd GPU-NET
 npm install
 npm run dev
