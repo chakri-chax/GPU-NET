@@ -36,6 +36,11 @@ module.exports = {
       url: process.env.MUMBAI_RPC_URL || "",
       accounts: process.env.PRIVATE_KEY ? [process.env.PRIVATE_KEY] : [],
       chainId: 80001,
+    },
+    gpu:{
+      url: process.env.GPU_RPC_URL || "https://rpc.gpu.net",
+      accounts: process.env.PRIVATE_KEY ? [process.env.PRIVATE_KEY] : [],
+      chainId: 4048,
     }
   },
   etherscan: {
