@@ -1,7 +1,6 @@
-# GPU-NET
-![alt text](src/gpulogo.svg)
-A full-stack application with Ethereum smart contract backend deployment.
 
+![alt text](src/gpulogo.svg)
+![alt text](src/gpuUI.png)
 ---
 
 ## Getting Started
